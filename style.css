@@ -1,4 +1,11 @@
+
 .nav{
     background-color: pink;
     padding: 20px;
+
+.content{
+    background-color: khaki;
+    height: 200px;
+    padding: 5px;
+
 }
